@@ -1,0 +1,20 @@
+.class-notice,
+.cooler-class {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-notice {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler-class{
+    font-size: 24px;
+}
+
+#another-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
